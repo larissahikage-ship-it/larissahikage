@@ -21,6 +21,6 @@ Passionate about software quality and currently building my path towards interna
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/larissa-hikage-bb7293b4)
 
 *"Quality is not an act, it is a habit."*
