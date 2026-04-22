@@ -1,18 +1,26 @@
-# Larissa Miyori Hikage 
-**QA Analyst | Manual Testing | English Proficient**
+# Hi, I'm Larissa! 👋 
 
-Welcome to my QA Portfolio! I am a detail-oriented Quality Assurance professional with a background in Program Management and a focus on systematic software validation.
+### 🚀 QA Professional in Training | IT Enthusiast
+Passionate about software quality and currently building my path towards international remote roles.
 
-## 🛠️ Skills & Tools
-- **Testing Types:** Manual Testing, Functional Testing, Exploratory Testing, Bug Analysis.
-- **Documentation:** Test Plans, Detailed Bug Reports, Feature Verification.
-- **Tools:** uTest Academy, Postman (API Testing), GitHub, Jira.
-- **Languages:** Portuguese (Native), English (Proficient - Advanced Diploma from Sydney, AU).
+---
 
-## 📁 Portfolio Projects
-*Check the folders above for samples of my work:*
-- [Bug Reports](./Bug-Reports): Examples of real-world bug identification.
-- [API Validation](./API-Testing): Checks performed using Postman and JSON APIs.
+## 🛠️ My Tech Stack
+- **Testing:** API Testing (REST), Manual Testing.
+- **Tools:** GitHub, JSON Viewer, Chrome DevTools.
+- **Current Study:** uTest Academy (Module 21+), IT Foundations.
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/larissahikage)
+## 📊 Projects & Evidence
+- [**API Testing Samples**](./API-Testing) - Validation of GET endpoints and JSON structure.
+
+## 🎯 My Goals
+- [ ] Complete uTest Academy curriculum.
+- [ ] Transition to a full-time Remote QA role.
+- [ ] Master API Test Automation.
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+
+*"Quality is not an act, it is a habit."*
